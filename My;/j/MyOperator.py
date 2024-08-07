@@ -1,1 +1,0 @@
-# demostração de expressões Complexas
